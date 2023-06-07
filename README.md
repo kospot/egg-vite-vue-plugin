@@ -29,7 +29,7 @@ exports.vitePlugin = {
 exports.vitePlugin = {
   devServer: false,
   targets: [],
-  viteServerConfig: {}
+  serverConfig: {}
 };
 ```
 
